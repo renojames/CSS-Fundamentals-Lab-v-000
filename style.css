@@ -32,3 +32,8 @@ section#featured-property > p {
   margin-right: auto;
   width: 50%;
 }
+
+#details {
+  display: block;
+  float: left;
+}
