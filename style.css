@@ -18,3 +18,8 @@ nav > a {
   padding: 10px;
   background-color: gray;
 }
+
+figcaption {
+  text-align: center;
+  width: 50%;
+}
