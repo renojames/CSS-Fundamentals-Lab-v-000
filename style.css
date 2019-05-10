@@ -40,5 +40,5 @@ section#featured-property > p {
   float: left;
   background-color: gray;
   width: 25%;
-align-items: center;
+  text-align: center;
 }
