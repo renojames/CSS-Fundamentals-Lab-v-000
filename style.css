@@ -36,3 +36,6 @@ section#featured-property > p {
 #details {
   display: block;
 }
+#details > div{
+  float: left;
+}
