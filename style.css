@@ -38,4 +38,6 @@ section#featured-property > p {
 }
 #details > div{
   float: left;
+  background-color: gray;
+  width: 25%
 }
