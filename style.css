@@ -20,7 +20,6 @@ nav > a {
 }
 
 figcaption {
-  display: block;
-  align-self: center;
+  float: inherit;
   width: 50%;
 }
